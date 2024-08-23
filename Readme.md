@@ -104,6 +104,19 @@ The project achieved the following results:
 
 Detailed results and analysis can be found in the project report.
 
+## Output Screens
+
+Here are some screenshots demonstrating the Semantic Colorization application:
+
+### Initial State
+![Initial State of Semantic Colorization](https://github.com/manishk002/A-Real-Time-Gen-AI-Image-Colorization_Nullclass_Internship/blob/main/Images/input.png)
+This image shows the initial state of the Semantic Colorization application. The interface includes a title bar with "Semantic Colorization" and two buttons at the bottom: "Load Image" and "Colorize".
+
+### Colorized Output
+![Colorized Output of Air Canada Plane](https://github.com/manishk002/A-Real-Time-Gen-AI-Image-Colorization_Nullclass_Internship/blob/main/Images/colorized.png)
+This image displays a colorized output of an Air Canada airplane. The application has successfully loaded and processed an image of an Air Canada plane flying in a blue sky. The plane's details, including its livery and the sky's color, are clearly visible, demonstrating the effectiveness of the semantic colorization process.
+
+
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
